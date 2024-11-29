@@ -3,7 +3,17 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "9b21cf96-74d8-488d-b0b6-cd1d725cacf6")
-	(paper "A4")
+	(paper "USLetter")
+	(title_block
+		(title "mason-comet-ornament")
+		(date "2024-11-27")
+		(rev "1.0.0")
+		(company "Mason City Schools")
+		(comment 1 " ")
+		(comment 2 "- an example of PCB art, an exercise in vector design")
+		(comment 3 "- circuit schematics, for a basic circuit")
+		(comment 4 "A simple example to show several KiCad skills:")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Pin"
 			(pin_names
